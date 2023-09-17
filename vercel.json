@@ -6,11 +6,11 @@
     },
     {
       "source": "/",
-      "destination": "https:sevenheaven-site.vercel.app/"
+      "destination": "https://sevenheaven-site.vercel.app/"
     },
     {
       "source": "/:match",
-      "destination": "https:sevenheaven-site.vercel.app/:match"
+      "destination": "https://sevenheaven-site.vercel.app/:match"
     }
   ]
 }
