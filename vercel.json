@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api",
+      "destination": "https://sevenheaven-api.vercel.app/api"
+    }
+  ]
+}
