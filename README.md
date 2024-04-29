@@ -1,6 +1,8 @@
 # Seven Heaven Website
 
-This is the root project for my band's website.
+This is the root project for the first version of my band's website.
+
+The current repository can be found [here](https://www.github.com/lschlierf/sevenheaven-next).
 
 ## Live version
 
